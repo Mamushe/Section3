@@ -3,6 +3,6 @@ Class One{
 		system.out.println("hello");
 		system.out.println("hellooooooo");
 		system.out.println("hello");
-		system.out.println("hellooooooo");
+		
 	}
 }
